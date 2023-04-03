@@ -1,6 +1,6 @@
 import os
 import time
-time.sleep(30)
+# time.sleep(30)
 
 folder_path = "D:\All backup\output"
 
