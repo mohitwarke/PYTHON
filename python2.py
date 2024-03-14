@@ -2,7 +2,7 @@ import os
 import time
 # time.sleep(30)
 
-folder_path = "D:\All backup\output"
+folder_path = "D:\Work\output"
 
 files = os.listdir(folder_path)
 
